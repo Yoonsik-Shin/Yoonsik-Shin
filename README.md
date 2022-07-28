@@ -16,7 +16,7 @@
 
 ## SKILLSETS
 <a>
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 </a>
 
 <a>
