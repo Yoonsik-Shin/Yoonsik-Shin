@@ -15,13 +15,13 @@
 
 
 ## SKILLSETS
-<a>
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-</a>
+ ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 <a>
 ​    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonsik-Shin&show_icons=true&theme=radical'/>
 </a>
+
+
 
 
 
