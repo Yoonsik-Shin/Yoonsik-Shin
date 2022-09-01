@@ -19,7 +19,7 @@
 
 #### Language
 
-![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
 
 #### DB
 
