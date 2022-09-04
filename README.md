@@ -5,14 +5,14 @@
 <a href='https://github.com/Yoonsik-Shin'>
     <img align='center' src='https://github-readme-stats.vercel.app/api?username=Yoonsik-Shin&show_icons=true&theme=highcontrast'/>
 </a>
-<br\>
+<br/>
 
 ## ✍️ TIL
 
 <a href='https://github.com/Yoonsik-Shin/TIL'>
-<img align='center' src='https://github-readme-stats.vercel.app/api/pin/?username=Yoonsik-Shin&repo=TIL&show_icons=true&theme=highcontrast'/></a>
-
-<br\>
+<img align='center' src='https://github-readme-stats.vercel.app/api/pin/?username=Yoonsik-Shin&repo=TIL&show_icons=true&theme=highcontrast'/>
+</a>
+<br/>
 
 ## 🔥SKILLSETS🔥
 
@@ -29,11 +29,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-F05032.svg?&style=flat&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GITHUB-181717.svg?&style=flat&logo=github&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonsik-Shin&show_icons=true&theme=highcontrast)
-<br\>
+<br/>
 
 ## Certificate
 
-1. 정보처리기사 [2022.06.17]
-2. 빅데이터분석기사 [2022.07.15]
+    1. 정보처리기사 [2022.06.17]
+    2. 빅데이터분석기사 [2022.07.15]
 
 </div>
