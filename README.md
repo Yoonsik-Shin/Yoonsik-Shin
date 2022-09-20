@@ -18,7 +18,11 @@
 
 ### Language
 
-![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
+
+### Framework
+
+### ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=Bootstrap&logoColor=white)
 
 ### DB
 
@@ -35,5 +39,3 @@
 
     1. 정보처리기사 [2022.06.17]
     2. 빅데이터분석기사 [2022.07.15]
-
-</div>
