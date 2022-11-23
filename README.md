@@ -22,11 +22,19 @@
 
 ### Framework
 
-### ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=Bootstrap&logoColor=white)
+### ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=Bootstrap&logoColor=white)![Django](https://img.shields.io/badge/Django-#092E20.svg?&style=flat&logo=Django&logoColor=white)
 
 ### DB
 
 ### ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=flat&logo=SQLite&logoColor=white)
+
+### ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white)
+
+### Deployment
+
+![AWS S3](https://img.shields.io/badge/Amazon S3-#569A31.svg?&style=flat&logo=Amazon S3&logoColor=white)
+
+![AWS RDS](https://img.shields.io/badge/Amazon RDS-#527FFF1.svg?&style=flat&logo=Amazon RDS&logoColor=white)
 
 ### TOOLS
 
@@ -39,3 +47,8 @@
 
     1. 정보처리기사 [2022.06.17]
     2. 빅데이터분석기사 [2022.07.15]
+
+
+
+
+
