@@ -1,20 +1,11 @@
 <h1 align="center">
 🏅 YOONSIK'S GITHUB 🏅
 </h1>
-
 <div align="center">
   <span style="font-size: 16px">TypeScript / Node.js</span> 기반의 풀스택 개발자를 꿈꾸는 신입 개발자 신윤식입니다<br/>
 	현재 TypeScript를 활용하여 Next.js와 Nest.js를 학습하고 있습니다<br/>
 	좋은 코드로 가치를 만들어내는 개발자가 되기를 희망합니다.
-</div>
-​    
-
-
-<div align="center"><a href='https://github.com/Yoonsik-Shin' ><img align='center' src='https://github-readme-stats.vercel.app/api?username=Yoonsik-Shin&show_icons=true&theme=highcontrast'/>
-</a></div>
-​    
-
-​    
+<div>
 
 
 <h2 align="center">
@@ -25,10 +16,6 @@
 <img align='center' src='https://github-readme-stats.vercel.app/api/pin/?username=Yoonsik-Shin&repo=TIL&show_icons=true&theme=highcontrast'/>
 </a>
 </div>
-​    
-
-​    
-
 
 <h2 align="center">
 🔥SKILLSETS🔥
@@ -62,14 +49,6 @@
 <div align="center"><img src="https://img.shields.io/badge/AmazonEC2-FF9900.svg?&style=flat&logo=amazonec2&logoColor=white" /><img src="https://img.shields.io/badge/AmazonS3-569A31.svg?&style=flat&logo=AmazonS3&logoColor=white" /><img src="https://img.shields.io/badge/AmazonRDS-527FFF1.svg?&style=flat&logo=AmazonRDS&logoColor=white" /></div>
 
 ​        
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonsik-Shin&show_icons=true&theme=highcontrast"/>
-</div>
-
-​    
-
-​    
 
 <h2 align="center">
 Certificate
